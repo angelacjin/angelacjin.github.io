@@ -2,25 +2,11 @@
 layout: default
 is_contact: true
 ---
-
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
-
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+* Email: angelacjin at berkeley dot edu
 
 ---
 
 ## Social
+[Twitter](https://twitter.com/angelacjin)
+[LinkedIn](https://www.linkedin.com/in/angela-c-jin/)
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
