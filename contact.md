@@ -8,5 +8,6 @@ is_contact: true
 
 ## Social
 [Twitter](https://twitter.com/angelacjin)
+
 [LinkedIn](https://www.linkedin.com/in/angela-c-jin/)
 
