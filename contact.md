@@ -2,7 +2,7 @@
 layout: default
 is_contact: true
 ---
-* Email: angelacjin at berkeley dot edu
+Email: angelacjin at berkeley dot edu
 
 ---
 
