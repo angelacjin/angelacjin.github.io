@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="index-profiile.jpg">
+<img class="profile-picture" src="angela-profile.jpg">
 
 Hi there! I'm a second-year Ph.D. student in Computer Science at UC Berkeley, advised by Rediet Abebe. My current research lies at the intersection of artificial intelligence, human-computer interaction, and public policy.
 
