@@ -14,7 +14,9 @@ Hi there! I’m a second-year Ph.D. student in Computer Science at UC Berkeley, 
 Prior to joining Berkeley, I graduated from Cornell University with a B.S. in Computer Science, where I had the privilege of working with and learning from Shuang Chen, José F. Martínez, Christina Delimitrou, and many others.
 
 ## News
-* **Oct. 2022** - I am honored to be accepted to the [Center for Democracy and Organizing's Fall 2022 Fellowship Cohort](https://igs.berkeley.edu/research/research-centers-and-programs)!
+* **Oct. 2022** - I am excited and honored to receive a research grant from the Berkeley Institute of Governmental Studies through the [Center for Democracy and Organizing](https://igs.berkeley.edu/research/research-centers-and-programs)!
+
+* **Oct. 2022** - I had an amazing time meeting people and presenting a poster at the Doctoral Consortium of the first in-person [ACM EAAMO conference](https://eaamo.org) in Washington, D.C.!
 
 * **Jun. 2022** - I am honored to announce that I have been selected to join the [Berkeley AI Policy Hub](https://cltc.berkeley.edu/aipolicyhub/) this coming Fall!
 
