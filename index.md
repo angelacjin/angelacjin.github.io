@@ -6,7 +6,11 @@ layout: default
 
 <img class="profile-picture" src="angela-profile.jpg">
 
-Hi there! I'm a second-year Ph.D. student in Computer Science at UC Berkeley, advised by Rediet Abebe. My current research lies at the intersection of artificial intelligence, human-computer interaction, and public policy.
+Hi there! I’m a second-year Ph.D. student in Computer Science at UC Berkeley, advised by Rediet Abebe. 
+  My current research applies methods from human-computer interaction (HCI) and machine learning to evaluate
+  the reliability and validity of sociotechnical systems used to produce evidence in the U.S. criminal legal system. 
+  I'm interested in exploring how technologists, policymakers, and end-users can each play a role in ensuring that 
+  algorithmic systems deployed in real world contexts are safe and effective. 
 
 Prior to joining Berkeley, I graduated from Cornell University with a B.S. in Computer Science, where I had the privilege of working with and learning from Shuang Chen, José F. Martínez, Christina Delimitrou, and many others.
 
