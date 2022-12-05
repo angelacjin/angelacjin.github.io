@@ -9,13 +9,14 @@ layout: default
 Hi there! I’m a second-year Ph.D. student in Computer Science at UC Berkeley, advised by Rediet Abebe. 
   My current research applies methods from human-computer interaction (HCI) and machine learning to evaluate
   the reliability and validity of sociotechnical systems used to produce evidence in the U.S. criminal legal system. 
-  I'm interested in exploring how technologists, policymakers, and end-users can each play a role in ensuring that 
-  algorithmic systems deployed in real world contexts are safe and effective. 
+  I'm interested in exploring how technologists, policymakers, end-users, and other domain-specific stakeholders can each play a role in ensuring that algorithmic systems deployed in real world contexts are safe and effective. 
 
 Prior to joining Berkeley, I graduated from Cornell University with a B.S. in Computer Science, where I had the privilege of working with and learning from Shuang Chen, José F. Martínez, Christina Delimitrou, and many others.
 
 ## News
-* **Jun. 2022** - I am honored to announce that I have been selected to join the [Berkeley AI Policy Hub](https://cltc.berkeley.edu/aipolicyhub/) this coming Fall! 
+* **Jun. 2022** - I am honored to be accepted to the Center for Democracy and Organizing's Fall 2022 Fellowship Cohort!
+
+* **Jun. 2022** - I am honored to announce that I have been selected to join the [Berkeley AI Policy Hub](https://cltc.berkeley.edu/aipolicyhub/) this coming Fall!
 
 * **Jun. 2022** - Very excited to be presenting [Adversarial Scrutiny of Evidentiary Statistical Software](https://arxiv.org/abs/2206.09305) in-person this month, at FAccT 202 in Seoul, South Korea! Looking forward to attending my first in-person conference and to meeting people there!
 
