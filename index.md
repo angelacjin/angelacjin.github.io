@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="angela-profile.jpg">
 
-Hi there! I’m a second-year Ph.D. student in Computer Science at UC Berkeley, advised by Rediet Abebe. 
+Hi there! I’m a second-year Ph.D. student in Computer Science at UC Berkeley working with professors Rediet Abebe and Niloufar Salehi. 
   My current research applies methods from human-computer interaction (HCI) and machine learning to evaluate
   the reliability and validity of sociotechnical systems used to produce evidence in the U.S. criminal legal system. 
   I'm interested in exploring how different stakeholder groups can each play a role in ensuring responsible and reliable development, deployment, and use of algorithmic decision-making systems.
