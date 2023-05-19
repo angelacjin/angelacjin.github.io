@@ -9,7 +9,7 @@ layout: default
 Hi there! I’m a second-year Ph.D. student in Computer Science at UC Berkeley, advised by Rediet Abebe. 
   My current research applies methods from human-computer interaction (HCI) and machine learning to evaluate
   the reliability and validity of sociotechnical systems used to produce evidence in the U.S. criminal legal system. 
-  I'm interested in exploring how technologists, policymakers, end-users, and other domain-specific stakeholders can each play a role in ensuring that algorithmic systems are responsibly developed, deployed, and used in real world contexts.
+  I'm interested in exploring how different stakeholder groups can each play a role in ensuring responsible and reliable development, deployment, and use of algorithmic decision-making systems.
 
 Prior to joining Berkeley, I graduated from Cornell University with a B.S. in Computer Science, where I had the privilege of working with and learning from Shuang Chen, José F. Martínez, Christina Delimitrou, and many others.
 
