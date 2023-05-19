@@ -9,11 +9,17 @@ layout: default
 Hi there! I’m a second-year Ph.D. student in Computer Science at UC Berkeley, advised by Rediet Abebe. 
   My current research applies methods from human-computer interaction (HCI) and machine learning to evaluate
   the reliability and validity of sociotechnical systems used to produce evidence in the U.S. criminal legal system. 
-  I'm interested in exploring how technologists, policymakers, end-users, and other domain-specific stakeholders can each play a role in ensuring that algorithmic systems deployed in real world contexts are safe and effective. 
+  I'm interested in exploring how technologists, policymakers, end-users, and other domain-specific stakeholders can each play a role in ensuring that algorithmic systems are responsibly developed, deployed, and used in real world contexts.
 
 Prior to joining Berkeley, I graduated from Cornell University with a B.S. in Computer Science, where I had the privilege of working with and learning from Shuang Chen, José F. Martínez, Christina Delimitrou, and many others.
 
+My research is supported by an NSF Graduate Research Fellowship. 
+
 ## News
+* **Apr. 2023** - Attending my first in-person CHI conference and first workshop (Design x Policy) in Hamburg, Germany! 
+
+* **Mar. 2023** - Beyond grateful to be selected as a 2023 NSF Graduate Research Fellowship recipient!
+
 * **Oct. 2022** - I am excited and honored to receive a research grant from the Berkeley Institute of Governmental Studies through the [Center for Democracy and Organizing](https://igs.berkeley.edu/research/research-centers-and-programs)!
 
 * **Oct. 2022** - I had an amazing time meeting people and presenting a poster at the Doctoral Consortium of the first in-person [ACM EAAMO conference](https://eaamo.org) in Washington, D.C.!
