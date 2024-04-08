@@ -14,6 +14,8 @@ Prior to joining Berkeley, I graduated from Cornell University with a B.S. in Co
 My research is supported by an NSF Graduate Research Fellowship. 
 
 ## News
+* **Mar. 2024** - Grateful and excited to present my work with Niloufar Salehi on [challenges that public defenders face scrutinizing and contesting AI used in the U.S. criminal legal system](https://arxiv.org/pdf/2403.13004.pdf), at CHI 2024 and the Northeast HCI meeting in May!
+
 * **Oct. 2023** - Incredibly grateful to meet and learn from others interested in community-centered and community-collaborative work at the _Community-Centered AI_ and _Surfacing Structural Barriers to Community-Collaborative Approaches in Human-Computer Interaction_ CSCW workshops!
 
 * **Apr. 2023** - Attending my first in-person CHI conference and first workshop (Design x Policy) in Hamburg, Germany! 
@@ -31,8 +33,9 @@ My research is supported by an NSF Graduate Research Fellowship.
 ## Publications
 
 ### Berkeley
-Rediet Abebe, Moritz Hardt, Angela Jin, John Miller, Ludwig Schmidt, and Rebecca Wexler. "Adversarial scrutiny of evidentiary statistical software." In Proceedings of the ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2022.
+Angela Jin, Niloufar Salehi. "(Beyond) Reasonable Doubt: Challenges that Public Defenders Face in Scrutinizing AI in Court." To appear in ACM Conference on Human Factors in Computing Systems (CHI) 2024. [paper](https://arxiv.org/pdf/2403.13004.pdf)
+
+Rediet Abebe, Moritz Hardt, Angela Jin, John Miller, Ludwig Schmidt, Rebecca Wexler. "Adversarial scrutiny of evidentiary statistical software." In Proceedings of the ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2022. [paper](https://arxiv.org/abs/2206.09305)
 
 ### Cornell
-Shuang Chen, Angela Jin, Christina Delimitrou, José F. Martínez. "ReTail: Opting for Learning Simplicity to Enable QoS-Aware Power Management in the Cloud."
-Intl. Symp. on High Performance Computer Architecture (HPCA), 2022.
+Shuang Chen, Angela Jin, Christina Delimitrou, José F. Martínez. "ReTail: Opting for Learning Simplicity to Enable QoS-Aware Power Management in the Cloud." In Intl. Symp. on High Performance Computer Architecture (HPCA), 2022. [paper](https://ieeexplore.ieee.org/document/9773201)
