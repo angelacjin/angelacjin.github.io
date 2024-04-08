@@ -7,7 +7,7 @@ layout: default
 Hi there! I’m a third-year Ph.D. student in Computer Science at UC Berkeley working with professors Niloufar Salehi and Rediet Abebe. 
   My current research applies methods from human-computer interaction (HCI) and machine learning (ML) to evaluate
   the reliability and validity of statistically-driven systems used to produce evidence in the U.S. criminal legal system. 
-  I'm interested in exploring how developers, users, impacted communities, and policymakers can each play a role in ensuring responsible and reliable development, deployment, and use of algorithmic decision-making systems.
+  I'm interested in exploring how developers, users, impacted communities, and policymakers can each play a role in ensuring responsible and accountable development, deployment, and use of algorithmic decision-making systems.
 
 Prior to joining Berkeley, I graduated from Cornell University with a B.S. in Computer Science, where I had the privilege of working with and learning from Shuang Chen, José F. Martínez, Christina Delimitrou, and many others.
 
