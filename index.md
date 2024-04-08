@@ -16,12 +16,12 @@ My research is supported by an NSF Graduate Research Fellowship.
 ## Publications
 
 ### Berkeley
-Angela Jin, Niloufar Salehi. "(Beyond) Reasonable Doubt: Challenges that Public Defenders Face in Scrutinizing AI in Court." To appear in ACM Conference on Human Factors in Computing Systems (CHI) 2024. [paper](https://arxiv.org/pdf/2403.13004.pdf)
+Angela Jin, Niloufar Salehi. "(Beyond) Reasonable Doubt: Challenges that Public Defenders Face in Scrutinizing AI in Court." To appear in ACM Conference on Human Factors in Computing Systems (CHI) 2024. [[paper]](https://arxiv.org/pdf/2403.13004.pdf)
 
-Rediet Abebe, Moritz Hardt, Angela Jin, John Miller, Ludwig Schmidt, Rebecca Wexler. "Adversarial scrutiny of evidentiary statistical software." In Proceedings of the ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2022. [paper](https://arxiv.org/abs/2206.09305)
+Rediet Abebe, Moritz Hardt, Angela Jin, John Miller, Ludwig Schmidt, Rebecca Wexler. "Adversarial scrutiny of evidentiary statistical software." In Proceedings of the ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2022. [[paper]](https://arxiv.org/abs/2206.09305)
 
 ### Cornell
-Shuang Chen, Angela Jin, Christina Delimitrou, José F. Martínez. "ReTail: Opting for Learning Simplicity to Enable QoS-Aware Power Management in the Cloud." In Intl. Symp. on High Performance Computer Architecture (HPCA), 2022. [paper](https://ieeexplore.ieee.org/document/9773201)
+Shuang Chen, Angela Jin, Christina Delimitrou, José F. Martínez. "ReTail: Opting for Learning Simplicity to Enable QoS-Aware Power Management in the Cloud." In Intl. Symp. on High Performance Computer Architecture (HPCA), 2022. [[paper]](https://ieeexplore.ieee.org/document/9773201)
 
 
 ## News
