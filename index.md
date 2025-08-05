@@ -11,7 +11,7 @@ Hi! I’m a fifth-year Ph.D. student in Computer Science at UC Berkeley, advised
 
 Prior to joining Berkeley, I graduated from Cornell University with a B.S. in Computer Science, where I had the privilege of working with and learning from Shuang Chen, José F. Martínez, Christina Delimitrou, and many others.
 
-My research is supported by an NSF Graduate Research Fellowship. 
+My research is supported by an NSF Graduate Research Fellowship and the Computational Research for Equity in the Legal System (CRELS) Fellowship. I was previously supported by the Berkeley AI Policy Hub fellowship.
 
 ## Publications
 
@@ -25,6 +25,7 @@ Rediet Abebe, Moritz Hardt, Angela Jin, John Miller, Ludwig Schmidt, Rebecca Wex
 ### Cornell
 Shuang Chen, Angela Jin, Christina Delimitrou, José F. Martínez. ReTail: Opting for Learning Simplicity to Enable QoS-Aware Power Management in the Cloud. In Intl. Symp. on High Performance Computer Architecture (HPCA), 2022. [[paper]](https://ieeexplore.ieee.org/document/9773201)
 
+Page last updated August 5, 2025.
 
 <!-- ## News -->
 <!-- * **Mar. 2024** - Presenting my work with Niloufar Salehi on [challenges that public defenders face scrutinizing and contesting AI used in the U.S. criminal legal system](https://arxiv.org/pdf/2403.13004.pdf), at CHI 2024 and the Northeast HCI meeting in May.
